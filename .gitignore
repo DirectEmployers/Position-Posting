@@ -11,3 +11,4 @@ settings.py
 *.tar.gz
 proddump
 *.sql
+*.vim
