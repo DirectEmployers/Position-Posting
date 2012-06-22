@@ -1,0 +1,21 @@
+{% extends "admin/base.html" %}
+{% load seo_extras %}
+{% include "/postajob/position/post_form.py" %}
+{% load i18n %}
+<html>
+<head>
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block content %}
+<title>{{section.title }}</title>
+<link rel="stylesheet" type="text/css" href="/static/admin/css/base.css" />
+<link rel="stylesheet" type="text/css" href="/static/admin/css/dashboard.css" />
+</head>
+<body>
+{% for model in models %}
+<h1>{{model}}</h1>
+<p>BlankBlank</p>
+  {% for facet in model %}
+  <h2>{{facet}}</h2>
+</body>
+</html>

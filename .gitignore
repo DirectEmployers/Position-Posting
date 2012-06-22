@@ -1,0 +1,13 @@
+\#.*
+\.\#.*
+settings.py
+*~
+*.zip
+*.pyc
+*.project
+*.swp
+.settings/
+*.pydevproject
+*.tar.gz
+proddump
+*.sql
