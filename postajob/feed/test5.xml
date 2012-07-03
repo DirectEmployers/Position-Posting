@@ -1,0 +1,51 @@
+<object>
+<salary_min type="integer">178</salary_min>
+<education_req/>
+<hurricane_irene type="boolean">False</hurricane_irene>
+<shift/>
+<address type="list">
+<object>
+<city/>
+<address1/>
+<address2/>
+<state/>
+<postal_code/>
+<country>Russia</country>
+</object>
+<object>
+<city/>
+<address1/>
+<address2/>
+<state/>
+<postal_code/>
+<country/>
+</object>
+<object>
+<city>Santa Claus</city>
+<address1>8113 Clubside Way</address1>
+<address2>Suite A</address2>
+<state>OK</state>
+<postal_code>79882</postal_code>
+<country>UAE</country>
+</object>
+<object>
+<city>Vandalia</city>
+<address1/>
+<address2/>
+<state>Ohio</state>
+<postal_code>45377-3062</postal_code>
+<country/>
+</object>
+</address>
+<licenses_req/>
+<salary_max type="integer">999999</salary_max>
+<position_title>Systems Engineer - Power Systems</position_title>
+<refcode>1519567</refcode>
+<job_description/>
+<experience_req>Project scheduling experience</experience_req>
+<expiration_date>2012-06-29</expiration_date>
+<duration/>
+<training_req>Six Sigma training (GE Employees only)</training_req>
+<salary_unit>USD</salary_unit>
+<start_date>2012-06-22</start_date>
+</object>

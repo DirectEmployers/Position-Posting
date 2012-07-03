@@ -24,5 +24,6 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
 
-    url(r'^api/', include(flat_api.urls)),
+    url(r'^api/', include(flat_api.urls))
+#    url(r'^api/simple/company', 'postajob.position.api.post_flat_company')
 )

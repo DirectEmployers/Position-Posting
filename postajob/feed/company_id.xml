@@ -1,0 +1,18 @@
+<object>
+<description>A job.</description>
+<URL>http://directemployersfoundation.org/</URL>
+<industry>HR</industry>
+<name>DirectEmployersFoundation</name>
+<is_staffing_firm type="boolean">False</is_staffing_firm>
+<is_federal_contractor type="boolean">False</is_federal_contractor>
+<address>
+<city>Indianapolis</city>
+<address1>9002 N Purdue Rd</address1>
+<address2/>
+<state>IN</state>
+<postal_code>46268</postal_code>
+<country>USA</country>
+<id>200</id>
+</address>
+<id>100</id>
+</object>

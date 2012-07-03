@@ -1,0 +1,9 @@
+<object>
+<address>foo</address>
+<description>A job.</description>
+<URL>http://directemployersfoundation.org/</URL>
+<industry>HR</industry>
+<name>DirectEmployersFoundation</name>
+<is_staffing_firm type="boolean">False</is_staffing_firm>
+<is_federal_contractor type="boolean">False</is_federal_contractor>
+</object>

@@ -1,0 +1,24 @@
+<object>
+<salary_min type="integer">178</salary_min>
+<education_req/>
+<hurricane_irene type="boolean">False</hurricane_irene>
+<shift/>
+<company>/api/flat/company/5/</company>
+<address type="list">
+<value>/api/flat/address/6/</value>
+<value>/api/flat/address/7/</value>
+<value>/api/flat/address/8/</value>
+<value>/api/flat/address/9/</value>
+</address>
+<licenses_req/>
+<salary_max type="integer">999999</salary_max>
+<position_title>Systems Engineer - Power Systems</position_title>
+<refcode>1519567</refcode>
+<job_description/>
+<experience_req>Project scheduling experience</experience_req>
+<expiration_date>2012-06-29</expiration_date>
+<duration/>
+<training_req>Six Sigma training (GE Employees only)</training_req>
+<salary_unit>USD</salary_unit>
+<start_date>2012-06-22</start_date>
+</object>
